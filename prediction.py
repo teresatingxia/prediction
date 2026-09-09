@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 def predict():
-    print("main version")
+    print("ada threshold 0.7")
 
 print(2+2)
 
